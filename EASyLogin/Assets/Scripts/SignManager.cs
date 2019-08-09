@@ -11,8 +11,8 @@ public class SignManager : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown("space")){
-            ScreenCapture.CaptureScreenshot("Screenshots/Signature.jpg");
-            SceneManager.LoadSceneAsync("AccountSelect", LoadSceneMode.Single);
+            // ScreenCapture.CaptureScreenshot("Screenshots/Signature.jpg");
+            SceneManager.LoadSceneAsync("Loading_Scene1", LoadSceneMode.Single);
         }
 
         //TODO: Uncomment to for 

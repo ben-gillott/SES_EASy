@@ -63,12 +63,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AccountSelector.cs" />
+    <Compile Include="Assets\Scripts\AccountToSelect.cs" />
     <Compile Include="Assets\Scripts\GraphGenerator.cs" />
+    <Compile Include="Assets\Scripts\LeaveLoad1.cs" />
+    <Compile Include="Assets\Scripts\LeaveLoad2.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\PhotoUploadT.cs" />
+    <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\SignManager.cs" />
+    <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Scripts\SphereFollows.cs" />
     <Compile Include="Assets\Scripts\SwipeTrails.cs" />
+    <None Include="Assets\Activity Indicators\ReadMe_txt.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/benjamingillott/Desktop/Conf/SES_EASy/EASyLogin/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

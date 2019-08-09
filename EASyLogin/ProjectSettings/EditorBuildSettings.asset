@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AccountSelect.unity
     guid: 316d31842cc054ed79aaf9c44344b0c2
+  - enabled: 1
+    path: Assets/Scenes/Loading_Scene1.unity
+    guid: 968d38f30c544474397b6a8b9f4088fd
+  - enabled: 1
+    path: Assets/Scenes/Loading_Scene2.unity
+    guid: d773f57783f354058b4a88749ce001fb
   m_configObjects: {}
