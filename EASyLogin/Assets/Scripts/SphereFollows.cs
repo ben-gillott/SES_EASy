@@ -29,11 +29,8 @@ public class SphereFollows : MonoBehaviour
         GUILayout.Label("Screen pixels: " + cam.pixelWidth + ":" + cam.pixelHeight);
         GUILayout.Label("Mouse position: " + mousePos);
         GUILayout.Label("World position: " + point.ToString("F3"));
-        GUILayout.EndArea();
- 		
+        GUILayout.EndArea();	
     }
-    
-
 }
 
 

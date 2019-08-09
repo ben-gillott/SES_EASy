@@ -63,8 +63,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AccountSelector.cs" />
-    <Compile Include="Assets\Scripts\Azure.cs" />
     <Compile Include="Assets\Scripts\GraphGenerator.cs" />
+    <Compile Include="Assets\Scripts\PhotoUploadT.cs" />
+    <Compile Include="Assets\Scripts\SignManager.cs" />
     <Compile Include="Assets\Scripts\SphereFollows.cs" />
     <Compile Include="Assets\Scripts\SwipeTrails.cs" />
     <Reference Include="Unity.Timeline.Editor">
