@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AccountSelector.cs" />
     <Compile Include="Assets\Scripts\GraphGenerator.cs" />
+    <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\PhotoUploadT.cs" />
     <Compile Include="Assets\Scripts\SignManager.cs" />
     <Compile Include="Assets\Scripts\SphereFollows.cs" />
